@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1042446981902",
+    "firebase_url": "https://yutalk-a043d.firebaseio.com",
+    "project_id": "yutalk-a043d",
+    "storage_bucket": "yutalk-a043d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042446981902:android:82fbe43e48af0e29",
+        "android_client_info": {
+          "package_name": "com.thebluepenguin.yutalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042446981902-mvbi2jq0b46qcbgu4c2m79fatu21m9n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thebluepenguin.yutalk",
+            "certificate_hash": "b626e0040347aa0613a3bad6cff318c027941056"
+          }
+        },
+        {
+          "client_id": "1042446981902-0d1e17p9jmg7bnsud9uqrd43379ml9gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD85V5aI0Lpkf_5c3hp4g-AaNZcBIw2mMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042446981902-0d1e17p9jmg7bnsud9uqrd43379ml9gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
